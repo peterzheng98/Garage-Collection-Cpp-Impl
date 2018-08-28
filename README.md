@@ -1,2 +1,2 @@
-# Garage-Collection-Cpp-Impl
+# Garbage-Collection-Cpp-Impl
 GC C++ Implement
